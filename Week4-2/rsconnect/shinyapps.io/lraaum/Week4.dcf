@@ -1,0 +1,12 @@
+name: Week4
+title: Week4
+username:
+account: lraaum
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 3511353
+bundleId: 4133670
+url: https://lraaum.shinyapps.io/Week4/
+when: 1611420834.69794
+asMultiple: FALSE
+asStatic: FALSE
