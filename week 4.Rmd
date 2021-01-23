@@ -120,11 +120,9 @@ data <- '
 ## Presenting the data in a Shiny app
 - A slider is available for the range of years you want to show in the graph
 - The graph shows the unemployment rate for Q3 in each year, by age group.
-```{r input, echo=FALSE}
+```{r input}
 
-        df <- sbtabell
-
-        ggplot(df, aes(x=kvartal, y=value)) + geom_line(aes(colour=alder, group = alder))
+        ggplot(sbtabell, aes(x=kvartal, y=value)) + geom_line(aes(colour=alder, group = alder))
         
 
 ```
