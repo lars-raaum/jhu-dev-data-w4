@@ -166,7 +166,8 @@ server <- function(input, output) {
 - The most recent data is from Q3 2020, thus i compare Q3 data for the entire time series<br />
 - The data is collected from the Statistics Norway (SSB) API and some minor cleaning operations are performed <br />
 - Use the slider for the range of years you want to show in the graph<br />
-- The graph shows the unemployment rate for Q3 in each year, by age group.")
+- The graph shows the unemployment rate for Q3 in each year, by age group.<br /> 
+- GitHub repo: https://github.com/lars-raaum/jhu-dev-data-w4")
     })
 }
 

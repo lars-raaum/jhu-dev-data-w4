@@ -129,3 +129,4 @@ data <- '
 
 ## Further links
 The full application is available at https://lraaum.shinyapps.io/Week4/ 
+Github repo: https://github.com/lars-raaum/jhu-dev-data-w4 
